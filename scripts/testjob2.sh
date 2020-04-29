@@ -1,0 +1,1 @@
+echo "`date` TEST-JOB-02 Successfully Completed"
